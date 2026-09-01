@@ -15,7 +15,6 @@ Sistem ini dirancang menggunakan arsitektur **Moore Machine** dengan pendekatan 
 
 ![Diagram FSM Traffic Light](img/traffic_light.png)
 
-*(Catatan: Letakkan gambar diagram FSM Anda di dalam folder `img/` dengan nama `traffic_light_fsm.png`)*
 
 ## Struktur Repositori
 
